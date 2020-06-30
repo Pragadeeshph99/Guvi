@@ -1,0 +1,22 @@
+[
+  [
+    {
+      "firstname": "Patrick",
+      "secondname": "a",
+      "email": "pa@m.com",
+      "city": "trichy",
+      "country": "Uzbekistan",
+      "password": "p1233"
+    }
+  ],
+  [
+    {
+      "firstname": "abi",
+      "secondname": "d",
+      "email": "ai@m.com",
+      "city": "trichy",
+      "country": "India",
+      "password": "qwerr"
+    }
+  ]
+]
