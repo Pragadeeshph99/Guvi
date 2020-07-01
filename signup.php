@@ -13,7 +13,7 @@
 	if(file_exists('data.json'))
 	{
 		$current_data = file_get_contents('data.json');
-		$array_data = json_decode($current_data, true);
+		$array_data[] = json_decode($current_data, true);
 		$data[]=array(
 			'firstname'  => $firstName,
 			'secondname' => $secondName,
